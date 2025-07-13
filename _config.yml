@@ -3,8 +3,9 @@ description: The Easiest Tutorials
 show_downloads: true
 
 # baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://honggkang.github.io/aiml-teaching/" # change this to the base hostname & protocol for your site
-
+# url: "https://honggkang.github.io/aiml-teaching/" # change this to the base hostname & protocol for your site
+url: "https://honggkang.github.io"
+baseurl: "/aiml-teaching"
 
 # google_analytics:
 
