@@ -10,6 +10,9 @@ author: Honggu Kang
 ---
 
 ### Linear regression
+[[code]][[pdf]]
 
+[code]: github.com/honggkang
+[pdf]: ./docs/CODE_OF_CONDUCT.md
 
 ### Logistic regression
