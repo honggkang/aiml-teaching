@@ -10,15 +10,19 @@ author: Honggu Kang
 ---
 
 ### Linear regression
-[[code](./src_code/lec1/)]
+[[code](./src_code/lec1/linear_regression.py)]
+[[naive code](./src_code/lec1/linear_regression_naive.py.py)]
+# https://github.com/honggkang/aiml-teaching/tree/master/src_code/lec1
 [[pdf](./pdf/lec1_linearRegression.pdf)]
 
 ### Logistic regression
-[[code](./src_code/lec2/)]
+[[code](./src_code/lec2/logistic_regression.py)]
 [[pdf](./pdf/lec2_logisticRegression.pdf)]
 
 ### Image classification
-[[code](./src_code/lec3/)]
+[[code](./src_code/lec3/mnist_classification.py)]
 [[pdf](./pdf/lec3_mnistClassification.pdf)]
 
 ### Reinforcement learning
+<!-- [[code](./src_code/lec4/)]
+[[pdf](./pdf/lec4_mnistClassification.pdf)] -->
