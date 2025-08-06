@@ -12,7 +12,6 @@ author: Honggu Kang
 ### Linear regression
 [[code](./src_code/lec1/linear_regression.py)]
 [[naive code](./src_code/lec1/linear_regression_naive.py.py)]
-# https://github.com/honggkang/aiml-teaching/tree/master/src_code/lec1
 [[pdf](./pdf/lec1_linearRegression.pdf)]
 
 ### Logistic regression
