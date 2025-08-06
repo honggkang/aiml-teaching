@@ -10,13 +10,15 @@ author: Honggu Kang
 ---
 
 ### Linear regression
-[[code](github.com/honggkang)]
+[[code](./src_code/lec1/)]
 [[pdf](./pdf/lec1_linearRegression.pdf)]
 
 ### Logistic regression
-[[code](github.com/honggkang)]
+[[code](./src_code/lec2/)]
 [[pdf](./pdf/lec2_logisticRegression.pdf)]
 
-## Image classification
-[[code](github.com/honggkang)]
+### Image classification
+[[code](./src_code/lec3/)]
 [[pdf](./pdf/lec3_mnistClassification.pdf)]
+
+### Reinforcement learning
