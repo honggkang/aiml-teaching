@@ -10,9 +10,13 @@ author: Honggu Kang
 ---
 
 ### Linear regression
-[[code]][[pdf]]
-
-[code]: github.com/honggkang
-[pdf]: ./docs/CODE_OF_CONDUCT.md
+[[code](github.com/honggkang)]
+[[pdf](./pdf/lec1_linearRegression.pdf)]
 
 ### Logistic regression
+[[code](github.com/honggkang)]
+[[pdf](./pdf/lec2_logisticRegression.pdf)]
+
+## Image classification
+[[code](github.com/honggkang)]
+[[pdf](./pdf/lec3_mnistClassification.pdf)]
