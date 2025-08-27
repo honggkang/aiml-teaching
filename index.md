@@ -9,6 +9,7 @@ layout: post
 author: Honggu Kang
 ---
 
+## Supervised Learning
 ### Linear regression
 [[code](./src_code/lec1/linear_regression.py)]
 [[naive code](./src_code/lec1/linear_regression_naive.py.py)]
@@ -22,6 +23,12 @@ author: Honggu Kang
 [[code](./src_code/lec3/mnist_classification.py)]
 [[pdf](./pdf/lec3_mnistClassification.pdf)]
 
-### Reinforcement learning
-<!-- [[code](./src_code/lec4/)]
-[[pdf](./pdf/lec4_mnistClassification.pdf)] -->
+
+## Reinforcement learning
+### Markov Decision Process & Bellman Equation
+[[pdf](./pdf/lecRL1_MDP.pdf)]
+
+### Policy Iteration & Value Iteration
+[[ValueIteration code](./src_code/lecRL/policyIter.py)]
+[[PolicyIteration code](./src_code/lecRL/valueIter.py)]
+[[pdf](./pdf/lecRL2_policyValueIteration.pdf)]
