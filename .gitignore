@@ -5,3 +5,7 @@ Gemfile.lock
 *.gem
 vendor/*
 .jekyll-metadata
+.DS_Store
+.gitignore
+data/
+.vscode/
