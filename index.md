@@ -29,6 +29,7 @@ author: Honggu Kang
 [[pdf](./pdf/lecRL1_MDP.pdf)]
 
 ### Policy Iteration & Value Iteration
-[[ValueIteration code](./src_code/lecRL/policyIter.py)]
-[[PolicyIteration code](./src_code/lecRL/valueIter.py)]
+[[code](./src_code/lecRL/policyValueIteration.py)]
 [[pdf](./pdf/lecRL2_policyValueIteration.pdf)]
+
+### Model-free RL
