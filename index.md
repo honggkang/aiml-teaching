@@ -23,6 +23,7 @@ author: Honggu Kang
 [[code](./src_code/lec3/mnist_classification.py)]
 [[pdf](./pdf/lec3_mnistClassification.pdf)]
 
+---
 
 ## Reinforcement learning
 ### Markov Decision Process & Bellman Equation

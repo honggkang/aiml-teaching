@@ -19,7 +19,7 @@ theme: # leave it empty
 
 # social
 author: honggkang
-image: /thumbnail-jumbo.png
+image: /thumbnail.png
 
 plugins:
   - jekyll-target-blank
@@ -28,3 +28,13 @@ target-blank:
     rel: nofollow
 
 # header_page_refs: ['now', 'about', 'contact']
+
+pwa:
+  enabled: true # The option for PWA feature (installable)
+  cache:
+    enabled: true # The option for PWA offline cache
+    # Paths defined here will be excluded from the PWA cache.
+    # Usually its value is the `baseurl` of another website that
+    # shares the same domain name as the current website.
+    deny_paths:
+      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
