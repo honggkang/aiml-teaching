@@ -34,3 +34,8 @@ author: Honggu Kang
 [[pdf](./pdf/lecRL2_policyValueIteration.pdf)]
 
 ### Model-free RL
+[[code](./src_code/lecRL/sarsaQ.py)]
+[[pdf](./pdf/lecRL3_modelFreeRL.pdf)]
+
+### Policy-gradient
+TBD
