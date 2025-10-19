@@ -11,31 +11,43 @@ author: Honggu Kang
 
 ## Supervised Learning
 ### Linear regression
-[[code](./src_code/lec1/linear_regression.py)]
+Lec: [[pdf](./pdf/lec1_linearRegression.pdf)]
+
+Code: [[code](./src_code/lec1/linear_regression.py)]
 [[naive code](./src_code/lec1/linear_regression_naive.py.py)]
-[[pdf](./pdf/lec1_linearRegression.pdf)]
+
 
 ### Logistic regression
-[[code](./src_code/lec2/logistic_regression.py)]
-[[pdf](./pdf/lec2_logisticRegression.pdf)]
+Lec: [[pdf](./pdf/lec2_logisticRegression.pdf)]
+
+Code: [[code](./src_code/lec2/logistic_regression.py)]
 
 ### Image classification
-[[code](./src_code/lec3/mnist_classification.py)]
-[[pdf](./pdf/lec3_mnistClassification.pdf)]
+Lec: [[pdf](./pdf/lec3_mnistClassification.pdf)]
+
+Code: [[code](./src_code/lec3/mnist_classification.py)]
 
 ---
 
 ## Reinforcement learning
 ### Markov Decision Process & Bellman Equation
-[[pdf](./pdf/lecRL1_MDP.pdf)]
+Lec: [[pdf](./pdf/lecRL1_MDP.pdf)]
 
 ### Policy Iteration & Value Iteration
-[[code](./src_code/lecRL/policyValueIteration.py)]
-[[pdf](./pdf/lecRL2_policyValueIteration.pdf)]
+Lec: [[pdf](./pdf/lecRL2_policyValueIteration.pdf)]
+
+Code: [[code](./src_code/lecRL/policyValueIteration.py)]
 
 ### Model-free RL
-[[code](./src_code/lecRL/sarsaQ.py)]
-[[pdf](./pdf/lecRL3_modelFreeRL.pdf)]
+Lec: [[pdf](./pdf/lecRL3_modelFreeRL.pdf)]
+
+Code: [[code](./src_code/lecRL/sarsaQ.py)]
+
+### Deep Reinforcement Learning
+Lec: [[pdf](./pdf/lecRL4_funcApprox.pdf)]
 
 ### Policy-gradient
-TBD
+Lec: [[pdf](./pdf/lecRL5_policyGradient.pdf)]
+
+Code: [[code(REINFORCE)](./src_code/lecRL/REINFORCE.py)]
+[[code(ActorCritic)](./src_code/lecRL/actorCritic.py)]
